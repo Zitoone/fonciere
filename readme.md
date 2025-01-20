@@ -1,4 +1,4 @@
-# HAGILE
+# FONCIERE
 
 Homepage of a website for our learning 
 
@@ -17,8 +17,8 @@ I had to make the exact homepage of an existing website.
 
 ## Authors
 
-  - **Jean Louis ERRANTE** - *Provided Web Design* -
-    [JL ERRANTE](https://github.com/JackAdamsJenkins)
+  - **Vincent ERRANTE** - *Provided Web Design* -
+    [Vincent ERRANTE](https://storycom.fr/)
 
 ## License
 
